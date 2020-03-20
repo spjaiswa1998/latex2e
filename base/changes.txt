@@ -1,3 +1,7 @@
+2020-03-21  Marcel Krüger    <Marcel.Krueger@latex-project.org>
+
+  * format.ins: Load ltluatex.dtx directly after ltalloc.dtx
+
 2020-03-19  Frank Mittelbach  <Frank.Mittelbach@latex-project.org>
 
 	* fontdef.dtx (subsection{Defaults}):
